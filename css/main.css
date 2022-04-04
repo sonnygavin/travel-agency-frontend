@@ -1,0 +1,23 @@
+/* Input element inside the section search class */
+
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: 3px solid #f4f4f4 !important;
+}
+
+
+/* Brand logo text  */
+
+.brand-logo {
+    font-family: 'Grape Nuts' !important;
+    font-size: 3.5rem !important;
+}
+
+
+/* Social media icons */
+
+.section-follow .fa-brands {
+    margin: 0.313rem 0.625rem !important;
+}
