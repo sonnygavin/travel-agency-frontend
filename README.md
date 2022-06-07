@@ -1,2 +1,2 @@
 # Vakasha.co.za
-Affordable travel in and around South Africa
+🌐 A clean, responsive, and easily customizable template for a travel website/company.
